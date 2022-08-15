@@ -62,29 +62,3 @@ canvas {
   cursor: pointer;
 }
 
-@media only screen and (max-width: 450px) {
-  
-  .wrapper{
-    width: 350px;
-    height: 350ex
-  }
-  .canvas1{
-    width: 350px;
-    height: 350px;
-  }
-  .saveBtn {
-  font-size: 1rem;
-  padding: 1px 10px;
-  left: 60px;
-}
-.clearBtn {
-  font-size: 1rem;
-  padding: 1px 10px;
-  left: 130px;
-}
-.slider1 {
-  width: 70px;
-  left: 220px;
-}
-
-}
