@@ -63,7 +63,6 @@ function draw() {
   }
 }
 
-// function windowResized() {
-//   resizeCanvas(600, 600);
-// draw()
-// }
+function windowResized() {
+  resizeCanvas(600, 600);
+}
